@@ -1,0 +1,34 @@
+{
+  "name": "bitwiki",
+  "version": "0.0.0",
+  "description": "BSV Chainwiki Concept",
+  "main": "index.js",
+  "dependencies": {
+    "bitfiles": "^1.0.8",
+    "bsvup": "^1.6.6",
+    "isomorphic-git": "^1.1.4",
+    "js-gitview": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xloem/bitwiki.git"
+  },
+  "keywords": [
+    "bsv",
+    "wiki",
+    "blockchain",
+    "bitcoin",
+    "git",
+    "bitcoinsv"
+  ],
+  "author": "Karl Semich <0xloem@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xloem/bitwiki/issues"
+  },
+  "homepage": "https://github.com/xloem/bitwiki#readme"
+}
