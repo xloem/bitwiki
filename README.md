@@ -11,6 +11,9 @@ It would be rendered as an interconnected tree of markdown files, like most git 
 A fork might need to be made of isomorphic-git to provide for http alternative support, which lets multiple accounts
 provide views of the wiki while sharing data resources.
 
+## Note
+	Monkeylord may be developing an on-chain website editor within bsvup.
+
 ## ---
 okay ummm
 ONGOING: please break code into multiple modules, don't code all in one file
