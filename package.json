@@ -6,7 +6,7 @@
   "dependencies": {
     "bitfiles": "^1.0.8",
     "bsvup": "^1.6.6",
-    "isomorphic-git": "^1.1.4",
+    "isomorphic-git": "^1.8.2",
     "js-gitview": "^1.1.1"
   },
   "devDependencies": {
